@@ -1,2 +1,6 @@
 # Metode-Numerik
 Tugas metode numerik, diselesaikan dengan script python
+
+- Metode Eliminasi Gauss
+- Metode Dekomposisi LU
+- Metode Regresi Linear
