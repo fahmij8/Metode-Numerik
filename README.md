@@ -6,3 +6,4 @@ Tugas metode numerik, diselesaikan dengan script python
 - Metode Regresi Linear
 - Aturan Trapezoidal
 - Aturan titik tengah (Midpoint Rule)
+- Metode Simpson
