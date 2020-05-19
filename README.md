@@ -5,5 +5,7 @@ Tugas metode numerik, diselesaikan dengan script python
 - Metode Dekomposisi LU
 - Metode Regresi Linear
 - Aturan Trapezoidal
-- Aturan titik tengah (Midpoint Rule)
+- Aturan Titik Tengah (Midpoint Rule)
 - Metode Simpson
+- Metode Euler
+- Metode Modified Euler
